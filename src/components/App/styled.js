@@ -2,7 +2,7 @@ import styled from 'styled-components';
 
 export const AppLayout = styled.div`
     display: grid;
-    grid-template-rows: 250px 1fr 50px;
+    grid-template-rows: 200px 1fr 50px;
     width: 100%;
     height: 100%;
 `;

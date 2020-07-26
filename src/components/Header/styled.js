@@ -14,7 +14,7 @@ export const HeaderTitle = styled.div`
    font-size: 46px;
    text-align: center;
    @media (max-width: 768px) {
-      font-size: 20px;
+      font-size: 32px;
       padding: 12px 40px;
    }
 `
@@ -24,7 +24,7 @@ export const HeaderDescription = styled.div`
    font-size: 24px;
    text-align: center;
    @media (max-width: 768px) {
-      font-size: 20px;
+      font-size: 22px;
       padding: 12px 40px;
    }
 `

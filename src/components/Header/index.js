@@ -4,15 +4,17 @@ import { HeaderContainer, HeaderTitle, HeaderDescription } from './styled';
 const Header = ({ nextUpdate }) => {
   const [counter, setCounter] = React.useState(nextUpdate);
   React.useEffect(() => {
+    nextUpdate > 0 && !counter && setCounter(nextUpdate);
     counter > 0 && setTimeout(() => setCounter(counter - 1), 1000);
-  }, [counter]);
+  }, [nextUpdate, counter]);
+
   return <HeaderContainer>
     <HeaderTitle>
-      IMPROVE YOUR VOCABULARY DAILY<br />DON'T STOP
+      IMPROVE YOUR VOCABULARY DAILY
        </HeaderTitle>
     <HeaderDescription>
-      These are the words today <br /> {counter} seconds left for new words.
-      </HeaderDescription>
+      Each day you will learn 12 words which ones you can improve your vocabulary<br /> Seconds for new words: {counter}
+    </HeaderDescription>
   </HeaderContainer>
 };
 
