@@ -67,7 +67,7 @@ const GridWords = ({ dailyWords }) => {
         </WordDefinitions>
         <WordShareSection>
           <WordShareDescription>Share an example</WordShareDescription>
-          <a href={`https://twitter.com/share?ref_src=twsrc%5Etfw&text=I learn a new word: ${wordItem.word} - Example => Write a sentence example =)`} target="_blank">
+          <a href={`https://twitter.com/share?ref_src=twsrc%5Etfw&text=I learn a new word: ${wordItem.word} - Example => Write a sentence example =)`} target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faTwitter} />
           </a>
         </WordShareSection>
