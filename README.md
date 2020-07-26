@@ -1,6 +1,7 @@
 # Improve Your Vocabulary
 
-This website give you a list of words daily for improve your English vocabulary.
+Improve your vocabulary has been built in ReactJS. 
+This project is based on offer a daily list of words for improve your English vocabulary.
 
 ## Source Information
 
