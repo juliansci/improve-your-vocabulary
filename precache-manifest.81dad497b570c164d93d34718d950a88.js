@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "29084a7d8eb21301f690b59b400430fd",
+    "revision": "ab5f7628ba9fbcb3545c7b8b1c70de14",
     "url": "/improve-your-vocabulary/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/improve-your-vocabulary/static/css/2.f87e9f44.chunk.css"
   },
   {
-    "revision": "e50d5a31ada35a192852",
+    "revision": "4c07d71f785420cdb4da",
     "url": "/improve-your-vocabulary/static/css/main.7ccb657f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/improve-your-vocabulary/static/js/2.6d2aff0c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e50d5a31ada35a192852",
-    "url": "/improve-your-vocabulary/static/js/main.ff2ec074.chunk.js"
+    "revision": "4c07d71f785420cdb4da",
+    "url": "/improve-your-vocabulary/static/js/main.33c4484f.chunk.js"
   },
   {
     "revision": "0d19768286156f7c5108",
