@@ -8,7 +8,7 @@ export const LoaderContainer = styled.div`
 
 export const GridWordsContainer = styled.div`
    display: grid;
-   grid-template-columns:repeat(4, 1fr);
+   grid-template-columns:repeat(3, 1fr);
    grid-column-gap: 20px;
    grid-row-gap: 20px;
    @media (max-width: 1120px) {
@@ -41,10 +41,10 @@ export const WordPronunciation = styled.div`
 `
 
 const colorByFrequency = {
-  rare: '#FD151B',
-  uncommon: '#FFB30F',
-  common: '#01295F',
-  frequent: '#849324'
+  rare: '#FF0000',
+  uncommon: '#FF8C00',
+  common: '#0000FF',
+  frequent: '#32CD32'
 }
 export const WordFrequency = styled.div`
   background-color: ${props => colorByFrequency[props.frequency]};

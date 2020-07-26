@@ -13,7 +13,7 @@ const Header = ({ nextUpdate }) => {
       IMPROVE YOUR VOCABULARY DAILY
        </HeaderTitle>
     <HeaderDescription>
-      Each day you will learn 12 words which ones you can improve your vocabulary<br /> Seconds for new words: {counter}
+      Learn 12 new words every day and enrich your vocabulary<br /> Next words in {counter} seconds
     </HeaderDescription>
   </HeaderContainer>
 };
