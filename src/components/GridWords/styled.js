@@ -8,7 +8,7 @@ export const LoaderContainer = styled.div`
 
 export const GridWordsContainer = styled.div`
    display: grid;
-   grid-template-columns:repeat(3, 1fr);
+   grid-template-columns:repeat(4, 1fr);
    grid-column-gap: 20px;
    grid-row-gap: 20px;
    @media (max-width: 1120px) {
