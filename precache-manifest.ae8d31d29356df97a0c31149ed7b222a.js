@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab5f7628ba9fbcb3545c7b8b1c70de14",
+    "revision": "17c8b9e6897200c9fa66f09cdc7b8e6c",
     "url": "/improve-your-vocabulary/index.html"
   },
   {
