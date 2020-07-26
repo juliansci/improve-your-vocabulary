@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.js": "/improve-your-vocabulary/static/js/main.3b50d489.chunk.js",
-    "main.js.map": "/improve-your-vocabulary/static/js/main.3b50d489.chunk.js.map",
+    "main.css": "/improve-your-vocabulary/static/css/main.7ccb657f.chunk.css",
+    "main.js": "/improve-your-vocabulary/static/js/main.ff2ec074.chunk.js",
+    "main.js.map": "/improve-your-vocabulary/static/js/main.ff2ec074.chunk.js.map",
     "runtime-main.js": "/improve-your-vocabulary/static/js/runtime-main.6b872b57.js",
     "runtime-main.js.map": "/improve-your-vocabulary/static/js/runtime-main.6b872b57.js.map",
     "static/css/2.f87e9f44.chunk.css": "/improve-your-vocabulary/static/css/2.f87e9f44.chunk.css",
     "static/js/2.6d2aff0c.chunk.js": "/improve-your-vocabulary/static/js/2.6d2aff0c.chunk.js",
     "static/js/2.6d2aff0c.chunk.js.map": "/improve-your-vocabulary/static/js/2.6d2aff0c.chunk.js.map",
     "index.html": "/improve-your-vocabulary/index.html",
-    "precache-manifest.c95d2df7463cf3081f834a7c04453f03.js": "/improve-your-vocabulary/precache-manifest.c95d2df7463cf3081f834a7c04453f03.js",
+    "precache-manifest.0435d77fa96a6b2b6ea77a905c4d5826.js": "/improve-your-vocabulary/precache-manifest.0435d77fa96a6b2b6ea77a905c4d5826.js",
     "service-worker.js": "/improve-your-vocabulary/service-worker.js",
     "static/css/2.f87e9f44.chunk.css.map": "/improve-your-vocabulary/static/css/2.f87e9f44.chunk.css.map",
+    "static/css/main.7ccb657f.chunk.css.map": "/improve-your-vocabulary/static/css/main.7ccb657f.chunk.css.map",
     "static/js/2.6d2aff0c.chunk.js.LICENSE.txt": "/improve-your-vocabulary/static/js/2.6d2aff0c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6b872b57.js",
     "static/css/2.f87e9f44.chunk.css",
     "static/js/2.6d2aff0c.chunk.js",
-    "static/js/main.3b50d489.chunk.js"
+    "static/css/main.7ccb657f.chunk.css",
+    "static/js/main.ff2ec074.chunk.js"
   ]
 }
